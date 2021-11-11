@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/prasanthk99/Ecommerce-Product-Page]
+- Live Site URL: [https://vibrant-lumiere-77e479.netlify.app/]
 
 ## My process
 
